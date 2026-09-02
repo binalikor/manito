@@ -1,0 +1,9 @@
+GitHub 업로드 준비본
+
+- Android 앱 소스코드와 Gradle 실행 파일을 포함합니다.
+- Play 스토어용 AAB는 release 폴더에 있습니다.
+- local.properties, 서명키, 비밀번호와 비밀키는 포함하지 않습니다.
+- Cloudflare 서버 소스와 독립 매매법 코드는 포함하지 않습니다.
+
+Play 스토어 파일:
+release/stock-secretary-v1-release.aab
